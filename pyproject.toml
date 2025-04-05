@@ -1,0 +1,6 @@
+[project]
+name = "pyscotland-org"
+version = "0.1.0"
+description = "The pyscotland.org website."
+requires-python = ">=3.12"
+dependencies = []
