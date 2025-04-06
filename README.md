@@ -1,3 +1,3 @@
-![PythonScotland-logo.gif](_assets/PythonScotland-logo.gif)
+![PyScotland-logo.gif](_assets/PyScotland-logo.gif)
 # pyscotland-org
 The pyscotland.org website.
